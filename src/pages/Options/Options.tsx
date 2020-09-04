@@ -44,7 +44,7 @@ export const Options: FC<OptionsProps> = ({ isAppReady, isWalletConnected }) =>
 			>
 				<div style={{ textAlign: 'center' }}>
 					<div style={{ paddingBottom: '17px' }}>Binary Options has been paused for upgrades.</div>
-					<Link to="https://blog.synthetix.io/the-antares-release/" isExternal={true}>
+					<Link to="https://blog.hashcash.money/the-antares-release/" isExternal={true}>
 						<Button palette="primary" size="md">
 							read this post for info
 						</Button>

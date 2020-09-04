@@ -7,7 +7,7 @@ import { HeadingSmall } from 'components/Typography';
 import Link from 'components/Link';
 import { FlexDivCentered } from 'shared/commonStyles';
 
-const ETHER_COLLATERAL_BLOG_POST_LINK = 'https://blog.synthetix.io/bug-disclosure/';
+const ETHER_COLLATERAL_BLOG_POST_LINK = 'https://blog.hashcash.money/bug-disclosure/';
 
 const BlockingOverlay = () => {
 	const { t } = useTranslation();

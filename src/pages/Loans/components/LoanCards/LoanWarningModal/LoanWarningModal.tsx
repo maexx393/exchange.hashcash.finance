@@ -11,7 +11,7 @@ import { FlexDivCol, FlexDiv, ExternalLink } from 'shared/commonStyles';
 import { ReactComponent as CloseIcon } from 'assets/images/close-cross.svg';
 
 const TRANSLATION_KEY = 'loans.modal.loan-trial';
-const BLOG_LINK = 'https://blog.synthetix.io/ether-collateral-second-trial/';
+const BLOG_LINK = 'https://blog.hashcash.money/ether-collateral-second-trial/';
 
 type LoanWarningModalProps = {
 	onClose: () => void;
