@@ -115,7 +115,7 @@ const ChartCard: FC<ChartCardProps> = ({ synthPair, isWalletConnected }) => {
 										price: `${USD_SIGN}${base.inverted.upperLimit}`,
 									})}
 								</InverseInfo>
-								<Link isExternal={true} to="https://blog.hashcash.money/inverse-synths-are-back/">
+								<Link isExternal={true} to="https://blog.hashcash.finance/inverse-synths-are-back/">
 									<QuestionMarkIcon>
 										<QuestionMarkStyled />
 									</QuestionMarkIcon>
